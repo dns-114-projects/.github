@@ -1,13 +1,14 @@
 # Personal Projects
-Systems, offensive/defensive tooling, and applied cybersecurity — personal engineering work.
+Offensive tooling, malware analysis, and personal security research — built outside of coursework.
 
 ## Focus Areas
-`low-level programming` · `offensive security` · `cryptography` · `networks` · `embedded systems`
+`reverse engineering` · `offensive tooling` · `malware analysis` · `protocol implementation` · `home lab`
 
 ## Structure
 | Domain | Description |
 |---|---|
-| Low-level & Systems | C, x86 ASM, OS internals, CPU architecture |
-| Offensive & Defensive | Network tools, scanners, honeypots, protocol analysis |
-| Cryptography | RNG, attacks, protocol reimplementation from scratch |
-| Networks & Infra | Enterprise architecture, Proxmox, IoT/ESP32 |
+| Reverse Engineering | Malware samples analysis, Ghidra/Radare2, writeups |
+| Offensive Tooling | Network scanners, fuzzers, keyloggers — C and Rust |
+| Honeypots | Fake SSH/HTTP/FTP services, intrusion logging, dashboards |
+| Protocol Reimplementation | TLS, VPN-like protocols from RFC — Python/C |
+| Home Lab | Proxmox, Active Directory, Pass-the-Hash, SIEM |
